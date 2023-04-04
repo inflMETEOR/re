@@ -1,0 +1,95 @@
+.footer{
+    background-color:rgb(0,83,70);
+    color: white;
+   
+}
+.conteiner__footer{
+    position: relative;
+    width: 1020px;
+    margin: 0 auto;
+}
+.o{
+    margin-left: 5px;
+}
+#logo1{
+    height: 62px;
+    width: 65px;
+}
+.height1{
+    height: 132px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    
+ 
+}
+.infa1{
+    
+    font-size: 14px;
+    color: white;
+    text-decoration: none;
+}
+.social1{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    margin-right: 130px;
+}
+.teleph1{
+    display: flex;
+    margin-left: 20px;
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 20px;
+}
+#i{
+    margin-left: 5px;
+}
+.height2{
+    height: 89px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    color: #92A09E;
+    
+}
+#border{
+    position: absolute;
+    width: 1020px;
+    height: 0px;
+    border: 1px solid #4C877D;
+}
+.h3{
+    height: 16px;
+    width: 130px;
+    font-size: 14px;
+    margin-top: 20px;
+    font-family: 'Raleway', sans-serif;
+
+}
+#teleph{
+    height: 20px;
+    width: 20px;
+    margin-top: 3px;
+    margin-top: 20px;
+}
+.h4{
+    font-size: 16px;
+    font-weight: 100;
+
+}
+#one{
+    margin-right: 110px;
+}
+#lastText{
+    display: flex;
+    flex-direction: row;
+    margin-left: 130px;
+}
+#two{
+    margin-left: 10px;
+}

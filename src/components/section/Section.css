@@ -1,0 +1,83 @@
+
+.section{
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    width: 740px;
+    height: 640px;
+    margin-left: 30px;
+    margin-top: 110px;
+    font-family: 'Cormorant Garamond', serif;
+
+}
+#h1{
+    color: rgb(0,83,70);
+
+}
+.name{
+    margin-left: 70px;
+    font-size: 60px;
+}
+.ul{
+    width: 428px;
+    height: 123px;
+    margin-top: 30px;
+    margin-left: 85px;
+
+}
+.li{
+    color: rgb(0,83,70);
+}
+
+li h2{
+    color: black;
+    font-size: 18px;
+    width: 411px;
+}
+.down{
+    display: flex;
+    justify-content: space-between;
+    width: 521px;
+    height: 55px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+#button{
+    height: 52px;
+    width: 227px;
+    background-color: rgb(226,177,69);
+    font-size: 16px;
+    margin-top: 4px;
+    border: none;
+    color: white;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+#strilka{
+    width: 55px;
+    height: 55px;
+}
+.quesion a{
+    margin-right: 20px;
+}
+.quesion{
+    width: 235px;
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+}
+#a{
+    margin-top: 20px;
+    font-size: 16px;
+    color: 	
+    rgb(21,43,41);
+}
+.img{
+    width: 760px;
+    height: 540px;
+}
+.img img{
+    width: 100%;
+    height: 100%;
+}
